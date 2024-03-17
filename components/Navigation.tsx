@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from "react";
 import {
-  SkillBars,
-  achievementInfo,
+  // achievementInfo,
   contact,
-  educationInfo,
+  // educationInfo,
   experience,
   greetings,
   projects,
@@ -66,21 +65,21 @@ const Navigation = () => {
                     <NavLink href="#skills">Skills</NavLink>
                   </NavItem>
                 )}
-                {educationInfo && (
+                {/* {educationInfo && (
                   <NavItem>
                     <NavLink href="#education">Education</NavLink>
                   </NavItem>
-                )}
+                )} */}
                 {experience && (
                   <NavItem>
                     <NavLink href="#experience">Experience</NavLink>
                   </NavItem>
                 )}
-                {achievementInfo && (
+                {/* {achievementInfo && (
                   <NavItem>
                     <NavLink href="#achievements">Achievements</NavLink>
                   </NavItem>
-                )}
+                )} */}
                 {projects && (
                   <NavItem>
                     <NavLink href="#projects">Projects</NavLink>
