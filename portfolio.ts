@@ -93,41 +93,41 @@ export const skillsSection: SkillsSectionType = {
   ],
 };
 
-// export const SkillBars: SkillBarsType[] = [
-//   {
-//     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-//     progressPercentage: "85", //Insert relative proficiency in percentage
-//   },
-//   {
-//     Stack: "Backend",
-//     progressPercentage: "90",
-//   },
-//   {
-//     Stack: "Programming",
-//     progressPercentage: "95",
-//   },
-// ];
+export const SkillBars: SkillBarsType[] = [
+  {
+    Stack: "Frontend/Design", //Insert stack or technology you have experience in
+    progressPercentage: "85", //Insert relative proficiency in percentage
+  },
+  {
+    Stack: "Backend",
+    progressPercentage: "90",
+  },
+  {
+    Stack: "Programming",
+    progressPercentage: "95",
+  },
+];
 
-// export const educationInfo: EducationType[] = [
-//   {
-//     schoolName: "Indian Institute Of Technology, Indore",
-//     subHeader: "Bachelor of Technology in Mechanical Engineering",
-//     duration: "November 2020 - May 2024",
-//     desc: "",
-//     grade: "Grade A",
-//     descBullets: [], // Array of Strings
-//   },
-// ];
+export const educationInfo: EducationType[] = [
+  {
+    schoolName: "Indian Institute Of Technology, Indore",
+    subHeader: "Bachelor of Technology in Mechanical Engineering",
+    duration: "November 2020 - May 2024",
+    desc: "",
+    grade: "Grade A",
+    descBullets: [], // Array of Strings
+  },
+];
 
-// export const achievementInfo: AchievementsType[] = [
-//   {
-//     achievementTitle: "University of Central Punjab",
-//     description: "Bachelor of Science in Computer Science",
-//     duration: "September 2017 - April 2020",
-//     desc: "",
-//     grade: "Grade A",
-//   },
-// ];
+export const achievementInfo: AchievementsType[] = [
+  {
+    achievementTitle: "University of Central Punjab",
+    description: "Bachelor of Science in Computer Science",
+    duration: "September 2017 - April 2020",
+    desc: "",
+    grade: "Grade A",
+  },
+];
 
 export const experience: ExperienceType[] = [
   {
